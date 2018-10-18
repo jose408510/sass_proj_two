@@ -5,6 +5,7 @@
   "homepage": "https://jose408510.github.io/sass_proj_two",
   "main": "index.js",
   "scripts": {
+    "deploy": "gh-pages -d index.html",
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "devserver": "live-server",
     "start": "npm-run-all --parallel devserver watch:sass",

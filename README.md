@@ -12,4 +12,4 @@ This link to this project is
 https://jose408510.github.io/sass_proj_two/
 
 
-<img src="img/css_photo.png" alt="Code" height="50%" width="100%">
+<img src="./css_photo.png" alt="Code" height="50%" width="100%">
