@@ -4,6 +4,7 @@
 <h3>
 This project showcases the power of css grids
 and flexbox and many animations also the power of SASS 
+over 500 lines of CSS for this project.
 No Javascript functionality for this project. 
 </h3>
 
